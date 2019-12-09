@@ -1,5 +1,5 @@
 # ascii_rogue
-Console ASCII rogue-like made in C#
+Console ASCII rogue-like made in Ruby
 Collect the green dollar signs!
 
 Group project with:
